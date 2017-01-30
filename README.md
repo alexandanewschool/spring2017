@@ -25,7 +25,7 @@ Please check the syllabus for the course outline and assignments.
 
 #### SLIDES
 
-Class slides can be found in the Wiki section, [here.] (https://github.com/anilajalex/newschool_fall2016/wiki)
+Class slides can be found in the Wiki section, [here.] (https://github.com/alexandanewschool/spring2017/wiki)
 
 #### PROJECTS:
 
